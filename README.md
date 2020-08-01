@@ -42,12 +42,12 @@ The database files are separated by the category of the severe weather (tornado,
 
 # Visualizations
 
-1. How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space
-2. Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables
+1. [How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space](#viz-1)
+2. [Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables](#viz-2)
 3. Number of Casualties and Tornado Frequency at Each State – Complex Behaviour Over Space (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
 4. Trends and/or Patterns on Casualties Based on Magnitude (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
 
-## How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space
+## How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space {#viz-1}
 
 A density distribution map of tornado occurrences in the United States is shown in figure 1. Using the map, it is possible to see areas in the country that have had higher densities of tornadoes (number of tornadoes per unit area) from 1950 up to 2018, or any time period in between.
 
@@ -86,7 +86,7 @@ Figure 5 (below) shows the distribution for Magnitude 5 tornadoes. There seems t
 Based on figures 4 and 5, it can be seen that the presumably “more dangerous” tornadoes occur less frequently compared to the lower magnitude tornadoes, as shown in figure 4.
 
 
-## Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables
+## Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables {: #viz-2 }
 
 In this section, patterns between casualties and tornado frequencies will be explored.
 
