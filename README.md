@@ -5,9 +5,7 @@ Visualizations of tornado data in the United States from 1950 to 2018. The visua
 2. [Project Aims](#project-aims)
 3. [Project Purpose](#project-purpose)
 3. [Data Source](#data-source)
-4. [Visualizations: How Tornadoes Are Distributed Through the United States](#number-of-casualties-and-tornado-frequency-over-time-–-complex-behaviour-over-time-and-multiple-dependent-variables)
-5. 
-
+4. [Visualizations: How Tornadoes Are Distributed Through the United States](#visualizations)
 
 ## Data
 For this project, I have created visualisations of tornado occurrences in the United States of America from 1950 to 2018 inclusive. The data includes a variety of fields – the ones that are relevant to this project are listed below:
@@ -43,6 +41,11 @@ The Storm Prediction Center (SPC) is defined to be “a government agency that i
 The database files are separated by the category of the severe weather (tornado, hail, and damaging wind) and by year of occurrences, from 1950 to 2018, each on a separate CSV file. It is also possible to retrieve the CSV files for all occurrences of each severe weather event from 1950 to 2018 (combined), instead of downloading a CSV for each year. The database downloaded and used for this project is the file that has all the occurrences of tornadoes from 1950 to 2018 (the latter).
 
 # Visualizations
+
+1. How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space
+2. Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables
+3. Number of Casualties and Tornado Frequency at Each State – Complex Behaviour Over Space (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
+4. Trends and/or Patterns on Casualties Based on Magnitude (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
 
 ## How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space
 
