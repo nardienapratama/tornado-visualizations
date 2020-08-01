@@ -3,7 +3,7 @@ Visualizations of tornado data in the United States from 1950 to 2018. The visua
 
 [Data](#data)
 
-### Data
+## Data
 For this project, I have created visualisations of tornado occurrences in the United States of America from 1950 to 2018 inclusive. The data includes a variety of fields – the ones that are relevant to this project are listed below:
 - Tornado number (om)
 - Date and time of tornado occurrence (year, month, day, date, time)
