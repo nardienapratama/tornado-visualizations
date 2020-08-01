@@ -52,5 +52,5 @@ The bottom line graph shows the number of tornado occurrences recorded every yea
 
 However, despite the increasing number of tornadoes over the years, the lack of positive correlation on the number of casualties seems odd. It should be expected that more tornadoes would result in more casualties, but it may not be the case here due to external factors – perhaps tornado occurrences back then weren’t being recorded as accurately in certain places as they are now, hence the lower number of records back in the 1950s up to the late 1990s compared to the 2000s.
 
-!(Casualties and Tornado Frequency Over Time)[Visualisations/Casualties-and-Tornado-Frequency-Over-Time.png)
+![Casualties and Tornado Frequency Over Time](Visualisations/Casualties-and-Tornado-Frequency-Over-Time.png)
 
