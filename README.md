@@ -5,7 +5,7 @@ Visualizations of tornado data in the United States from 1950 to 2018. The visua
 2. [Project Aims](#project-aims)
 3. [Project Purpose](#project-purpose)
 3. [Data Source](#data-source)
-4. [Visualizations: How Tornadoes Are Distributed Through the United States](#Number-of-Casualties-and-Tornado-Frequency-Over-Time-–-Complex-Behaviour-Over-Time-and-Multiple-Dependent-Variables)
+4. [Visualizations: How Tornadoes Are Distributed Through the United States](#number-of-casualties-and-tornado-frequency-over-time-–-complex-behaviour-over-time-and-multiple-dependent-variables)
 5. 
 
 
