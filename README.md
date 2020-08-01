@@ -5,7 +5,7 @@ Visualizations of tornado data in the United States from 1950 to 2018. The visua
 2. [Project Aims](#project-aims)
 3. [Project Purpose](#project-purpose)
 3. [Data Source](#data-source)
-4. [Visualizations: How Tornadoes Are Distributed Through the United States](#visualizations)
+4. [Visualizations](#visualizations)
 
 ## Data
 For this project, I have created visualisations of tornado occurrences in the United States of America from 1950 to 2018 inclusive. The data includes a variety of fields – the ones that are relevant to this project are listed below:
@@ -43,7 +43,7 @@ The database files are separated by the category of the severe weather (tornado,
 # Visualizations
 
 1. [How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space](#how-tornadoes-are-distributed-through-the-united-states--complex-behaviour-over-space)
-2. [Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables](#viz-2)
+2. [Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables](#number-of-casualties-and-tornado-frequency-over-time--complex-behaviour-over-time-and-multiple-dependent-variables)
 3. Number of Casualties and Tornado Frequency at Each State – Complex Behaviour Over Space (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
 4. Trends and/or Patterns on Casualties Based on Magnitude (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
 
@@ -86,7 +86,7 @@ Figure 5 (below) shows the distribution for Magnitude 5 tornadoes. There seems t
 Based on figures 4 and 5, it can be seen that the presumably “more dangerous” tornadoes occur less frequently compared to the lower magnitude tornadoes, as shown in figure 4.
 
 
-## Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables {: #viz-2 }
+## Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables
 
 In this section, patterns between casualties and tornado frequencies will be explored.
 
