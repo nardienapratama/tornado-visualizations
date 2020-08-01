@@ -1,5 +1,5 @@
 # tornado-visualizations
-Visualizations of tornado data in the United States from 1950 to 2018. The visualizations were made using Tableau. The purpose of this project was to investigate how frequent and dangerous the tornadoes in the United States have been and their distribution throughout the country. The following sections have been taken from the project [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf).
+Visualizations of tornado data in the United States from 1950 to 2018. The visualizations were made using Tableau. The purpose of this project was to investigate how frequent and dangerous the tornadoes in the United States have been and their distribution throughout the country. The following sections have been taken from the project [report](https://github.com/nardienapratama/tornado-visualizations/blob/master/Visualization%20Project%20Report%20-%20Nardiena%20Althafia%20Pratama.pdf).
 
 1. [Data](#data)
 2. [Project Aims](#project-aims)
@@ -44,8 +44,8 @@ The database files are separated by the category of the severe weather (tornado,
 
 1. [How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space](#how-tornadoes-are-distributed-through-the-united-states--complex-behaviour-over-space)
 2. [Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables](#number-of-casualties-and-tornado-frequency-over-time--complex-behaviour-over-time-and-multiple-dependent-variables)
-3. Number of Casualties and Tornado Frequency at Each State – Complex Behaviour Over Space (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
-4. Trends and/or Patterns on Casualties Based on Magnitude (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
+3. Number of Casualties and Tornado Frequency at Each State – Complex Behaviour Over Space (see [report](https://github.com/nardienapratama/tornado-visualizations/blob/master/Visualization%20Project%20Report%20-%20Nardiena%20Althafia%20Pratama.pdf)).
+4. Trends and/or Patterns on Casualties Based on Magnitude (see [report](https://github.com/nardienapratama/tornado-visualizations/blob/master/Visualization%20Project%20Report%20-%20Nardiena%20Althafia%20Pratama.pdf)).
 
 ## How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space 
 
