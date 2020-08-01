@@ -42,7 +42,7 @@ The database files are separated by the category of the severe weather (tornado,
 
 # Visualizations
 
-1. [How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space](#how-tornadoes-are-distributed-through-the-united-states--complex-behaviour-over-space-viz-1)
+1. [How Tornadoes Are Distributed Through the United States – Complex Behaviour Over Space](#how-tornadoes-are-distributed-through-the-united-states--complex-behaviour-over-space)
 2. [Number of Casualties and Tornado Frequency Over Time – Complex Behaviour Over Time and Multiple Dependent Variables](#viz-2)
 3. Number of Casualties and Tornado Frequency at Each State – Complex Behaviour Over Space (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
 4. Trends and/or Patterns on Casualties Based on Magnitude (see [report](Visualization-Project-Report---Nardiena-Althafia-Pratama.pdf)).
